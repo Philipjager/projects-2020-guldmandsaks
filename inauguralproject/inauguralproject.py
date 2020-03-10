@@ -68,7 +68,3 @@ ax_left.set_xlabel('$x_1$')
 ax_left.set_ylabel('$u(x_1,(I-p_1 x_1)/p_2)$')
 ax_left.grid(True)
 plt.show()
-
-Master Coda
-
-pik∏
