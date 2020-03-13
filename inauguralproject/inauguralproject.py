@@ -86,6 +86,7 @@ ax_left.set_title('Optimalt arbejdsudbud ved forskellig realløn')
 ax_left.set_xlabel('$w$')
 ax_left.set_ylabel('$l$')
 ax_left.grid(True)
+<<<<<<< HEAD
 
 # Opgave 3
 m = 1
@@ -186,3 +187,4 @@ print(T)
 
 Master Coda
 
+=======
