@@ -185,6 +185,8 @@ kappa_i = np.array([hallo] * elements)
 T = sum(tau0_i*w_i*l_i+tau1_i*np.max(w_i*l_i-kappa_i,0))
 print(T)
 
+
+
 Master Coda
 
 =======
