@@ -6,10 +6,9 @@ In the third main part of the project we ammend the utility functions to evaluat
 In the final part of the project we add extensions to the Constraint Stock Allocation Optimization model. Our extensions to the model are two different approaches. In the first part we extend the model with a third stock that is characterized with having no risk, in the  general financial theory the CAPM (Capital Asset Pricing Model) this corresponds to the risk-free asset. We perform the optimization with the original utility function representing a risk-adverse investor. The second extension to the main model consists of introducing a third potential stage, so the spectre and probability of each stage is increased and decreased respectively.
 
 
-The results and full script of our project can be viewed by running " (...).ipynb " 
+The results and full script of our project can be viewed by running "Model Project.ipynb"
 
 Apart from a standard Anaconda Python 3 installation, the project requires the following packages installed:
 - Numpy
 - Scipy (optimize)
 - Matplotlib
-- (...)
